@@ -1,0 +1,17 @@
+{
+  "name": "emmet-jsx-css-modules",
+  "main": "./lib/emmet-jsx-css-modules",
+  "author": "Jason L Perry <jasper@ambethia.com>",
+  "version": "0.1.0",
+  "description": "Extends Emmet's JSX expansions to use CSS modules.",
+  "keywords": [
+    "emmet",
+    "jsx",
+    "css-modules"
+  ],
+  "repository": "https://github.com/ambethia/emmet-jsx-css-modules",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
