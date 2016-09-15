@@ -6,4 +6,4 @@ For example: `.foo` will now expand to `<div className={style.foo}></div>` inste
 
 ## TODO
 
-- [ ] Allow the `style` variable name to be customized via Atom's preferences.
+- [x] Allow the `style` variable name to be customized via Atom's preferences.
